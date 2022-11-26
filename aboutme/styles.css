@@ -1,0 +1,7 @@
+/* Remember if you already have CSS rules targeting an element that 
+you will be asked to give a new rule to, it's best to replace or 
+combine your declarations with the rule you already have in CSS. This 
+makes our code clean and efficient.*/
+img {
+    width: 80%;
+}
