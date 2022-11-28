@@ -5,3 +5,8 @@ makes our code clean and efficient.*/
 img {
     width: 80%;
 }
+nav, footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+}
