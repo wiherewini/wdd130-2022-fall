@@ -9,7 +9,7 @@
   }
 
   body {
-    background-color: #fcfbfb;
+    background-color: linen;
     font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     margin: 0;
@@ -21,7 +21,7 @@ h2 {
 
 nav a {
     text-decoration: none;
-    color: #fcfbfb;
+    color: #a43312;
     text-align: center;
     padding: 35px;
 }
