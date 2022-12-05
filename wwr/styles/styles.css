@@ -9,8 +9,8 @@
   }
 
   body {
-    background-color: linen;
-    font-family: Raleway, Arial, sans-serif;
+    background-color: rgb(248, 209, 186);
+    font-family: 'Rock Salt', Arial, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -46,12 +46,12 @@ nav a {
 }
 .card-img {
     border: 10px solid #d9c2a3;
-}https://wiherewini.github.io/wdd130-2022-fall/wwr/index.html
+}
 main section img {
     box-sizing: border-box;
 }
 img {
-    width: 80%;
+    width: 30%;
 }
 * {
     border: 2px solid blue;
