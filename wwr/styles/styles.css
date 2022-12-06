@@ -93,7 +93,10 @@ footer .social img {
     padding-top: 10px;
 }
 .para {
-    border: 5px solid black
-}#mountain {
+    border: 5px solid black;
+    margin: 30px;
+    padding: 40px;
+}
+#mountain {
     border-radius: 50%;
 }
