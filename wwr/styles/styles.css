@@ -58,7 +58,7 @@ img {
     width: 30%;
 }
 * {
-    border: 2px solid blue;
+    border: 2px solid ;
 }
 h1 {
     text-align: center;
@@ -91,4 +91,7 @@ footer .social img {
 }
 .icon   {
     padding-top: 10px;
+}
+.para {
+    border: 5px solid black
 }
