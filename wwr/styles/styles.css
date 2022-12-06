@@ -1,13 +1,17 @@
 .home-title {
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 2em;
+    margin-top: 10px;
 }
 
 .msg {
     background-color: #aabd8c;
     line-height: 1.5em;
-  }
-
+    padding: 35px;
+}
+.msg p {
+    padding-bottom: 15px;
+}
   body {
     background-color: rgb(248, 209, 186);
     font-family: 'Raleway', Arial, sans-serif;
@@ -64,6 +68,9 @@ nav, footer {
     color: white;
     padding: 10px;
 }
+footer {
+    padding: 25px 50px;
+}
 footer p {
     font-size: 20px;
     margin: 20px auto;
@@ -71,4 +78,13 @@ footer p {
 a:hover {
     background-color: white;
     color: steelblue;
+}
+footer .social img {
+    padding-top: 15px;
+}
+#logo_link   {
+    padding-top: 5px;
+}
+.icon   {
+    padding-top: 10px;
 }
