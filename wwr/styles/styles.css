@@ -63,6 +63,9 @@ img {
 h1 {
     text-align: center;
 }
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
 nav, footer {
     background-color: steelblue;
     color: white;
@@ -70,6 +73,7 @@ nav, footer {
 }
 footer {
     padding: 25px 50px;
+    margin-top: 200px;
 }
 footer p {
     font-size: 20px;
