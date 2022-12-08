@@ -4,9 +4,10 @@
   /* This is the parent of the activity 1 boxes. */
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 30px;
   justify-items: center;
   grid-gap: 20px;
+  background-color: #
+  padding: 10px;
 }
 .red1 { 
   width: 100%; 
