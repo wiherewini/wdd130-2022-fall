@@ -9,6 +9,13 @@
   background-color: #e7c24f;
   padding: 10px;
 }
+.grid-item {
+  background-color: #e7c24f;
+  border: 1px solid black;
+  padding: 20px;
+  font: 30px;
+  text-align: center;
+}
 .red1 { 
   width: 100%; 
   height: 100px; 
